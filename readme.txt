@@ -1,3 +1,3 @@
 this is git project;
-git is a distributed version controller system;
-git is free softwarf;
+git is a distributed version control system;
+git is free softwarf distributed under the GPL;
